@@ -1,4 +1,4 @@
-# @prettier/sync
+# @prettiimport * as prettier from "prettier";er/sync
 
 [![Build Status][github_actions_badge]][github_actions_link]
 [![Coverage][codecov_badge]][codecov_link]
